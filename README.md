@@ -6,7 +6,6 @@ This is a simple board to be able to
 - Receive RFM69W data
 - Display whatever on I2C OLED LCD
 - Ready for OOK send/receive (see [jeelabs][5] for how to)
-- 2 I2C Oled connector (Adafruit or Tindie Oled)
 
 This is the 2nd proto board, I've just ordered one on OSHPark, will put 
 more details once received and tested, but 1st one works fine

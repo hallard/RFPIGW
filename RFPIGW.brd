@@ -24,7 +24,7 @@
 <layer number="24" name="bOrigins" color="14" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="26" name="bNames" color="14" fill="1" visible="yes" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
@@ -3501,14 +3501,18 @@ Please make sure your boards conform to these design rules.</description>
 </signals>
 <errors>
 <approved hash="19,1,9a7d4b91b3564c96"/>
+<approved hash="19,1,0aeaf1330f61bc56"/>
 <approved hash="4,1,ed6805b30af6632d"/>
 <approved hash="4,1,2c6544ac4be95c27"/>
+<approved hash="4,1,95f8f58b70c682b4"/>
 <approved hash="4,1,b1f4b5d8b59cb78c"/>
 <approved hash="4,1,b1d4b5dcb590b784"/>
 <approved hash="4,1,3fe63bca3b823992"/>
-<approved hash="19,1,0aeaf1330f61bc56"/>
+<approved hash="4,1,d595cc77cd51d53b"/>
 <approved hash="4,1,0f17f440f6c30e8c"/>
+<approved hash="4,16,95f8f58b70c682b4"/>
 <approved hash="19,16,9d47dae72090e167"/>
+<approved hash="4,16,d595cc77cd51d53b"/>
 <approved hash="4,16,0f17f440f6c30e8c"/>
 </errors>
 </board>
