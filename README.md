@@ -24,7 +24,7 @@ Everything will be documented on my [blog][4]
 **Board**  
 ![board]( https://raw.github.com/hallard/RFPIGW/master/RFPIGW-brd.png )
 
-![top](https://raw.github.com/hallard/RFPIGW/master/RFPIGW-top.png)&nbsp;&nbsp;![bottom](https://raw.github.com/hallard/DAC-Shield/master/RFPIGW-bottom.png)
+![top](https://raw.github.com/hallard/RFPIGW/master/RFPIGW-top.png)&nbsp;&nbsp;![bottom](https://raw.github.com/hallard/RFPIGW/master/RFPIGW-bottom.png)
 
 [4]: http://hallard.me
 [5]: http://jeelabs.net/projects/cafe/wiki/Receiving_OOKASK_with_a_modified_RFM12B
