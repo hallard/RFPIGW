@@ -37,11 +37,10 @@ Everything will be documented on my [blog][4]
 ![schematic](https://raw.github.com/hallard/RFPIGW/master/RFPIGW-sch.png)
 
 **Board**  
-![board]( https://raw.github.com/hallard/RFPIGW/master/RFPIGW-brd.png )
+<img src="https://raw.github.com/hallard/RFPIGW/master/RFPIGW-brd.png" align="center" alt="board" width="33%" height="33%">  
 
 <img src="https://raw.github.com/hallard/RFPIGW/master/RFPIGW-top.png" alt="top" width="223" height="250">&nbsp;&nbsp;<img src="https://raw.github.com/hallard/RFPIGW/master/RFPIGW-bottom.png" alt="bottom" width="223" height="250">
 
-![top](https://raw.github.com/hallard/RFPIGW/master/RFPIGW-top.png)&nbsp;&nbsp;![bottom](https://raw.github.com/hallard/RFPIGW/master/RFPIGW-bottom.png)
 
 [3]: http://hallard.me/bp-ulpnode/
 [4]: http://hallard.me
