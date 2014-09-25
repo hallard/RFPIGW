@@ -39,7 +39,7 @@ Everything will be documented on my [blog][4]
 **Board**  
 ![board]( https://raw.github.com/hallard/RFPIGW/master/RFPIGW-brd.png )
 
-<img src="https://raw.github.com/hallard/RFPIGW/master/RFPIGW-top.png" alt="top" style="width:33%;height:33%"><img src="https://raw.github.com/hallard/RFPIGW/master/RFPIGW-bottom.png" alt="bottom" style="width:33%;height:33%">
+<img src="https://raw.github.com/hallard/RFPIGW/master/RFPIGW-top.png" alt="top" style="width:223;height:250"><img src="https://raw.github.com/hallard/RFPIGW/master/RFPIGW-bottom.png" alt="bottom" style="width:223;height:250">
 
 
 ![top](https://raw.github.com/hallard/RFPIGW/master/RFPIGW-top.png)&nbsp;&nbsp;![bottom](https://raw.github.com/hallard/RFPIGW/master/RFPIGW-bottom.png)
